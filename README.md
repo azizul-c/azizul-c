@@ -5,8 +5,8 @@
 - 🌱 Currently learning HTML, CSS, JavaScript and Python
 - 💼 Seeking a Fall 2021 co-op!
 
-<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="15" height="15">  **[Connect with me](linkedin.com/in/azizul-c)  
-<img src="https://user-images.githubusercontent.com/71241543/123558957-44c07900-d767-11eb-81e5-5ff663499451.png" width="23" height="13"> [View my design portfolio](be.net/azizul-c)**
+<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="15" height="15">  **[Connect with me](https://linkedin.com/in/azizul-c)  
+<img src="https://user-images.githubusercontent.com/71241543/123558957-44c07900-d767-11eb-81e5-5ff663499451.png" width="23" height="13"> [View my design portfolio](https://be.net/azizul-c)**
 
 
 
