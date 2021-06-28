@@ -1,4 +1,4 @@
-### Hey there! 👋
+### Hi, I'm Azizul! 👋
 ![](https://komarev.com/ghpvc/?username=azizul-c&color=blueviolet)
 
 - 💻 Studying Computer Engineering at UWaterloo
