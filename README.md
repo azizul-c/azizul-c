@@ -4,7 +4,7 @@
 
 Check out my website: **[azizul.me](https://azizul.me)**
 
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" height="15">  **[Connect with me](https://linkedin.com/in/azizul-c)  
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" height="15">  [Connect with me](https://linkedin.com/in/azizul-c)  
 
 
 
